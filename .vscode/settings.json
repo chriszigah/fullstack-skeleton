@@ -1,0 +1,33 @@
+{
+  "prettier.trailingComma": "none",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.semi": false,
+  "prettier.endOfLine": "auto",
+  "prettier.singleQuote": true,
+  "editor.formatOnSave": true,
+  "[html]": {
+    "editor.formatOnSave": true
+  },
+  "[css]": {
+    "editor.formatOnSave": true
+  },
+  "[javascript]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.cursorStyle": "line",
+  "editor.cursorWidth": 5,
+  "editor.cursorBlinking": "solid",
+  "editor.renderWhitespace": "all",
+  "[plaintext]": {
+    "editor.quickSuggestions": false
+  },
+  "editor.quickSuggestionsDelay": 100,
+  "zenMode.centerLayout": false,
+  "zenMode.fullScreen": false,
+  "zenMode.hideLineNumbers": false,
+  "zenMode.hideTabs": false,
+  "editor.minimap.enabled": false,
+  "workbench.settings.openDefaultSettings": true,
+  "workbench.settings.editor": "json"
+}
